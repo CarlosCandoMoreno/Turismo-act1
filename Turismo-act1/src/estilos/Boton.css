@@ -1,0 +1,24 @@
+button{
+width: 200px;
+height: 60px;
+font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+font-size: medium;
+font-weight:500;
+color:#fffffc;
+border: 2px solid rgb(67, 49, 33);
+border-radius: 15px;
+margin: 5px;
+cursor: pointer;
+}
+
+button:hover{
+background-color: #17998e;
+}
+
+.boton-clic{
+    background-color: blue;
+}
+
+.boton-reiniciar{
+    background-color:blueviolet;
+}
